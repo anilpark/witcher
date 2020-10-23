@@ -1,0 +1,77 @@
+@font-face {
+  font-family: 'Cambria';
+  src: url('Cambria.eot');
+  src: url('Cambria.eot?#iefix') format('embedded-opentype'),
+       url('Cambria.svg#Cambria') format('svg'),
+       url('Cambria.ttf') format('truetype'),
+       url('Cambria.woff') format('woff'),
+       url('Cambria.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'CambriaMath';
+  src: url('CambriaMath.eot');
+  src: url('CambriaMath.eot?#iefix') format('embedded-opentype'),
+       url('CambriaMath.svg#CambriaMath') format('svg'),
+       url('CambriaMath.ttf') format('truetype'),
+       url('CambriaMath.woff') format('woff'),
+       url('CambriaMath.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Cambria';
+  src: url('Cambria-Italic.svg#Cambria-Italic') format('svg'),
+  url('Cambria-Italic.ttf') format('truetype'),
+  url('Cambria-Italic.woff') format('woff');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Сambria';
+  src: url('cambriai.eot');
+  src: url('cambriai.eot?#iefix') format('embedded-opentype'),
+  url('cambriai.woff2') format('woff2');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Cambria';
+  src: url('Cambria-BoldItalic.svg#Cambria-BoldItalic') format('svg'),
+  url('Cambria-BoldItalic.ttf') format('truetype'),
+  url('Cambria-BoldItalic.woff') format('woff');
+  font-weight: 500;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'cambriaz';
+  src: url('cambriaz.eot');
+  src: url('cambriaz.eot?#iefix') format('embedded-opentype'),
+  url('cambriaz.woff2') format('woff2');
+  font-weight: 500;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Cambria';
+  src: url('Cambria-Bold.svg#Cambria-Bold') format('svg'),
+  url('Cambria-Bold.ttf') format('truetype'),
+  url('Cambria-Bold.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'cambriab';
+  src: url('cambriab.eot');
+  src: url('cambriab.eot?#iefix') format('embedded-opentype'),
+  url('cambriab.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
